@@ -1,0 +1,6 @@
+---
+title: "Github-Pages-test-mcd"
+date: 2023-06-03
+---
+# WELCOME TO MY GITHUB PERSONAL BLOG
+## THIS IS A TEST FOR MCD PROGRAMMING COURSE
